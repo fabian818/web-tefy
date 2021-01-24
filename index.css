@@ -1,0 +1,16 @@
+p {
+    font-family: Calibri;
+}
+
+#primerp {
+    color: blue;
+}
+
+#segundop {
+    border: solid;
+    border-color: blue;
+}
+
+.big {
+    font-size: 50px;
+}

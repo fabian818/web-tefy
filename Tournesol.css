@@ -1,0 +1,30 @@
+.encabezado {
+    font-size: 50px;
+    text-align: left;
+    background-color: pink;
+    color: purple;
+    text-transform: uppercase;
+    font-family: Arial;
+    border: solid;
+    border-color: black;
+    margin: 5px;
+}
+
+.cuerpo{
+    background-color: white;
+    font-size: 50px;
+    color:pink;
+    font-family: Arial;
+    border:solid;
+    border-color: black;
+    text-align: center;
+}
+.boton{
+    font-weight: 50px;
+    font-size:50px;
+    color: purple;
+    background-color: white;
+    border: black 2px solid;
+    border-radius: 30px;
+    text-align: right;
+}
